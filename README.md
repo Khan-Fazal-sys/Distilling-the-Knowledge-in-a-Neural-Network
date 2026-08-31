@@ -39,7 +39,3 @@ Additional experiments are available in `main.py` and can be enabled in the `__m
 └── data/                 # Downloaded locally; ignored by Git
     └── MNIST/
 ```
-
-## License
-
-No license has been selected for this repository yet. Add a license before distributing the code publicly.
